@@ -1,0 +1,12 @@
+setup.py
+SFSimUL/__init__.py
+SFSimUL/io.py
+SFSimUL/parse_parm.py
+SFSimUL/plotting.py
+SFSimUL/proto_cluster_walktrap.py
+SFSimUL/proto_learn_faiss.py
+SFSimUL/umap_embed.py
+SFSimUL.egg-info/PKG-INFO
+SFSimUL.egg-info/SOURCES.txt
+SFSimUL.egg-info/dependency_links.txt
+SFSimUL.egg-info/top_level.txt
